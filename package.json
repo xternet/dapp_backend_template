@@ -1,0 +1,21 @@
+{
+  "name": "dapp_backend_template",
+  "version": "1.0.0",
+  "description": "dApp hardhat template with ethers, web3, openzeppelin & studydefi",
+  "keywords": ["hardhat", "ethers", "web3", "openzeppelin", "studydefi"],
+  "author": "github.com/xternet",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@openzeppelin/contracts": "^4.2.0",
+    "@studydefi/money-legos": "^2.4.2",
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.4",
+    "hardhat": "^2.6.0",
+    "web3": "^1.5.2"
+  }
+}
