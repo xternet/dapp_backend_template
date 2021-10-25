@@ -1,8 +1,14 @@
 {
-  "name": "dapp_backend_template",
+  "name": "proxy",
   "version": "1.0.0",
   "description": "dApp hardhat template with ethers, web3, openzeppelin & studydefi",
-  "keywords": ["hardhat", "ethers", "web3", "openzeppelin", "studydefi"],
+  "keywords": [
+    "hardhat",
+    "ethers",
+    "web3",
+    "openzeppelin",
+    "studydefi"
+  ],
   "author": "github.com/xternet",
   "license": "ISC",
   "devDependencies": {
@@ -17,5 +23,8 @@
     "ethers": "^5.4.4",
     "hardhat": "^2.6.0",
     "web3": "^1.5.2"
+  },
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15"
   }
 }
