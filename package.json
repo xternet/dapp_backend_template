@@ -1,5 +1,5 @@
 {
-  "name": "proxy",
+  "name": "dapp_backend_template",
   "version": "1.0.0",
   "description": "dApp hardhat template with ethers, web3, openzeppelin & studydefi",
   "keywords": [
